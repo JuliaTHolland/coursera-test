@@ -44,7 +44,8 @@ body {
 }
 
 /* HOME */
-h2 {
+#ourmenu {
+	font-size: 2em;
 	color: #0d80a3;
 	text-align: center;
 	font-family: "Times New Roman", Times, serif;
